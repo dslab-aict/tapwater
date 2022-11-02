@@ -1,6 +1,6 @@
 ## Dataset
 
-The datasets were collected from **33 water purification plants* in the four major rivers of South Korea **(Han River, Geum River, Nakdong River, and Seomjin River)**.
+The datasets were collected from **33 water purification plants** in the four major rivers of South Korea **(Han River, Geum River, Nakdong River, and Seomjin River)**.
 
 The dataset includes three water quality monitoring indicators: 
 hydrogen ion concentration (ph), turbidity (tb), and residual chloride (rc). 
